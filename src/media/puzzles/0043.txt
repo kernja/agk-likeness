@@ -1,0 +1,12 @@
+IMAGES:kitten.jpg,adorable.jpg
+LETTER:kittenle
+ANSWER:kitten
+HELPER:2,pussycat
+IMAGES:bunny.jpg
+LETTER:adorab
+ANSWER:adorable
+HELPER:1,ugly
+IMAGES:stephen.jpg
+LETTER:pet
+ANSWER:pet
+HELPER:0,master

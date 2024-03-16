@@ -1,0 +1,12 @@
+IMAGES:baseball.jpg,bat2.jpg
+LETTER:baseball
+ANSWER:baseball
+HELPER:0,pasttime
+IMAGES:pinata1.jpg
+LETTER:hitng
+ANSWER:hit
+HELPER:2,smack
+IMAGES:swing2.jpg
+LETTER:swi
+ANSWER:swing
+HELPER:0,motion

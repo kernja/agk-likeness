@@ -1,0 +1,12 @@
+IMAGES:football.jpg,soccer.jpg
+LETTER:football
+ANSWER:football
+HELPER:0,sport
+IMAGES:fieldgoal.jpg
+LETTER:goal
+ANSWER:goal
+HELPER:0,score
+IMAGES:kick.jpg
+LETTER:kick
+ANSWER:kick
+HELPER:2,boot

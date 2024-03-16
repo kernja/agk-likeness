@@ -1,0 +1,12 @@
+IMAGES:ballet1.jpg,ballet2.jpg
+LETTER:ballet
+ANSWER:ballet
+HELPER:0,dance
+IMAGES:fan.jpg
+LETTER:girl
+ANSWER:girl
+HELPER:0,gender
+IMAGES:goat.jpg
+LETTER:kid
+ANSWER:kid
+HELPER:2,child

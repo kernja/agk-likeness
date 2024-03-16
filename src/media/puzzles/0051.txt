@@ -1,0 +1,12 @@
+IMAGES:violin1.jpg,violin2.jpg
+LETTER:violinair
+ANSWER:violin
+HELPER:0,instrument
+IMAGES:horse.jpg
+LETTER:horseh
+ANSWER:horsehair
+HELPER:2,mane
+IMAGES:string.jpg
+LETTER:string
+ANSWER:string
+HELPER:2,rope

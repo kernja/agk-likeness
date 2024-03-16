@@ -1,0 +1,12 @@
+IMAGES:golf1.jpg,golf2.jpg
+LETTER:golfn
+ANSWER:golf
+HELPER:3,miniture
+IMAGES:atm.jpg
+LETTER:gree
+ANSWER:green
+HELPER:2,money
+IMAGES:safety.jpg
+LETTER:pin
+ANSWER:pin
+HELPER:1,lapel

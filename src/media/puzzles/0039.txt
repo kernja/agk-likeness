@@ -1,0 +1,12 @@
+IMAGES:lego.jpg,blocks.jpg
+LETTER:toysdime
+ANSWER:toys
+HELPER:2,curio
+IMAGES:kid.jpg
+LETTER:buil
+ANSWER:build
+HELPER:1,destroy
+IMAGES:swing.jpg
+LETTER:playt
+ANSWER:playtime
+HELPER:1,work

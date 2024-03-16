@@ -1,0 +1,12 @@
+IMAGES:torch.jpg,torch1.jpg
+LETTER:torcheld
+ANSWER:torch
+HELPER:2,burn
+IMAGES:hairdryer.jpg
+LETTER:heath
+ANSWER:heat
+HELPER:1,cold
+IMAGES:leaf.jpg
+LETTER:hand
+ANSWER:handheld
+HELPER:2,portable

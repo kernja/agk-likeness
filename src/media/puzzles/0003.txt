@@ -1,0 +1,12 @@
+IMAGES:bird.jpg,butterfly.jpg
+LETTER:wsanimafl
+ANSWER:animal
+HELPER:3,mammal
+IMAGES:jets.jpg
+LETTER:ly
+ANSWER:fly
+HELPER:2,soar
+IMAGES:wings.jpg
+LETTER:ing
+ANSWER:wings
+HELPER:2,limbs

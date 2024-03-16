@@ -1,0 +1,12 @@
+IMAGES:racing.jpg,track.jpg
+LETTER:sprint
+ANSWER:sprint
+HELPER:1,walk
+IMAGES:dive.jpg
+LETTER:races
+ANSWER:race
+HELPER:2,compete
+IMAGES:bowling.jpg
+LETTER:lane
+ANSWER:lanes
+HELPER:0,grouping

@@ -1,0 +1,12 @@
+IMAGES:beach1.jpg,beach2.jpg
+LETTER:romantice
+ANSWER:romantic
+HELPER:1,platonic
+IMAGES:deer.jpg
+LETTER:kissl
+ANSWER:kiss
+HELPER:0,intimacy
+IMAGES:stroll.jpg
+LETTER:coup
+ANSWER:couple
+HELPER:2,pair

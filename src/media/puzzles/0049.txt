@@ -1,0 +1,12 @@
+IMAGES:syringe1.jpg,syringe2.jpg
+LETTER:syringee
+ANSWER:syringe
+HELPER:2,needle
+IMAGES:exam.jpg
+LETTER:labicin
+ANSWER:lab
+HELPER:2,worksop
+IMAGES:medicine.jpg
+LETTER:med
+ANSWER:medicine
+HELPER:0,science

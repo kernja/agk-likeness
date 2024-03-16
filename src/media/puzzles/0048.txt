@@ -1,0 +1,12 @@
+IMAGES:model1.jpg,model2.jpg
+LETTER:beret
+ANSWER:beret
+HELPER:0,firearm
+IMAGES:model3.jpg
+LETTER:model
+ANSWER:model
+HELPER:2,subject
+IMAGES:model4.jpg
+LETTER:tacky
+ANSWER:tacky
+HELPER:2,tasteless

@@ -1,0 +1,5 @@
+100,sfx/click.wav
+101,sfx/harp.wav
+102,sfx/harp2.wav
+103,sfx/buzzer.wav
+104,sfx/message.wav

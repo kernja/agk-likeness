@@ -1,0 +1,12 @@
+IMAGES:waffle.jpg,cake.jpg
+LETTER:starchyrn
+ANSWER:starch
+HELPER:3,carb
+IMAGES:suntile.jpg
+LETTER:ouden
+ANSWER:round
+HELPER:1,Square
+IMAGES:fire.jpg
+LETTER:ergy
+ANSWER:energy
+HELPER:3,Calories

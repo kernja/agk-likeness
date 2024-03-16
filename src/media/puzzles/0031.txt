@@ -1,0 +1,12 @@
+IMAGES:seal1.jpg,seal2.jpg
+LETTER:sealsls
+ANSWER:seals
+HELPER:2,pinnipeds
+IMAGES:dogs.jpg
+LETTER:barka
+ANSWER:bark
+HELPER:0,utterance
+IMAGES:friends.jpg
+LETTER:mamm
+ANSWER:mammals
+HELPER:0,Tetrapoda

@@ -1,0 +1,12 @@
+IMAGES:mixer1.jpg,mixer2.jpg
+LETTER:mixero
+ANSWER:mixer
+HELPER:2,console
+IMAGES:record.jpg
+LETTER:studi
+ANSWER:studio
+HELPER:0,room
+IMAGES:record2.jpg
+LETTER:record
+ANSWER:record
+HELPER:2,vinyl

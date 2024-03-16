@@ -1,0 +1,12 @@
+IMAGES:lamppost1.jpg,lamppost2.jpg
+LETTER:lamppost
+ANSWER:lamppost
+HELPER:0,light
+IMAGES:cow.jpg
+LETTER:fixture
+ANSWER:fixture
+HELPER:2,permanent
+IMAGES:garlic.jpg
+LETTER:bulbs
+ANSWER:bulbs
+HELPER:2,tuber

@@ -1,0 +1,12 @@
+IMAGES:magnets.jpg,hop.jpg
+LETTER:numbers
+ANSWER:numbers
+HELPER:0,glyphs
+IMAGES:counter.jpg
+LETTER:countl
+ANSWER:count
+HELPER:1,estimate
+IMAGES:student.jpg
+LETTER:schoo
+ANSWER:school
+HELPER:3,primary

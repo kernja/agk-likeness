@@ -1,0 +1,12 @@
+IMAGES:brush1.jpg,brush2.jpg
+LETTER:brush
+ANSWER:brush
+HELPER:2,stroke
+IMAGES:paint.jpg
+LETTER:paint
+ANSWER:paint
+HELPER:3,acrylic
+IMAGES:graffiti.jpg
+LETTER:art
+ANSWER:art
+HELPER:1,science

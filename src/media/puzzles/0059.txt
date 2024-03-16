@@ -1,0 +1,12 @@
+IMAGES:carrot.jpg,broccoli.jpg
+LETTER:vegetable
+ANSWER:vegetable
+HELPER:3,eggplant
+IMAGES:produce.jpg
+LETTER:produce
+ANSWER:produce
+HELPER:1,destroy
+IMAGES:farm.jpg
+LETTER:farm
+ANSWER:farm
+HELPER:2,cultivate

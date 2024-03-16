@@ -1,0 +1,12 @@
+IMAGES:kayak1.jpg,kayak2.jpg
+LETTER:kayaknt
+ANSWER:kayak
+HELPER:0,boat
+IMAGES:rafting.jpg
+LETTER:curre
+ANSWER:current
+HELPER:2,movement
+IMAGES:bumper.jpg
+LETTER:float
+ANSWER:float
+HELPER:1,sink

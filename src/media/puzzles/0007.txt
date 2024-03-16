@@ -1,0 +1,12 @@
+IMAGES:coaster.jpg,thrill.jpg
+LETTER:thrillent
+ANSWER:thrill
+HELPER:1,boring
+IMAGES:horseback.jpg
+LETTER:amusem
+ANSWER:amusement
+HELPER:2,fun
+IMAGES:bike.jpg
+LETTER:ride
+ANSWER:ride
+HELPER:2,commute

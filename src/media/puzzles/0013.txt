@@ -1,0 +1,12 @@
+IMAGES:paris.jpg,blimp.jpg
+LETTER:manmadek
+ANSWER:manmade
+HELPER:1,natural
+IMAGES:goat2.jpg
+LETTER:overloo
+ANSWER:overlook
+HELPER:2,view
+IMAGES:cliff.jpg
+LETTER:high
+ANSWER:high
+HELPER:2,tall

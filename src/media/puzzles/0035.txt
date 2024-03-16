@@ -1,0 +1,12 @@
+IMAGES:noir1.jpg,noir3.jpg
+LETTER:spypon
+ANSWER:spy
+HELPER:0,genre
+IMAGES:noir2.jpg
+LETTER:wea
+ANSWER:weapon
+HELPER:2,armament
+IMAGES:noir4.jpg
+LETTER:noir
+ANSWER:noir
+HELPER:0,style

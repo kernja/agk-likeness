@@ -1,0 +1,12 @@
+IMAGES:party.jpg,birthday.jpg
+LETTER:birthdayr
+ANSWER:birthday
+HELPER:2,observance
+IMAGES:party2.jpg
+LETTER:partyate
+ANSWER:party
+HELPER:2,gathering
+IMAGES:fireworks.jpg
+LETTER:celeb
+ANSWER:celebrate
+HELPER:1,forget

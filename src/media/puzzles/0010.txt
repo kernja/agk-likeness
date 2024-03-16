@@ -1,0 +1,12 @@
+IMAGES:catbike.jpg,golfcart.jpg
+LETTER:cartls
+ANSWER:cart
+HELPER:2,ride
+IMAGES:direction.jpg
+LETTER:whee
+ANSWER:wheels
+HELPER:0,round
+IMAGES:tractor.jpg
+LETTER:park
+ANSWER:park
+HELPER:0,gear

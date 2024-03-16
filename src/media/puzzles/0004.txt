@@ -1,0 +1,12 @@
+IMAGES:signduck.jpg,signperson.jpg
+LETTER:caution
+ANSWER:caution
+HELPER:2,warning
+IMAGES:church.jpg
+LETTER:symbol
+ANSWER:symbol
+HELPER:2,figure
+IMAGES:armcross.jpg
+LETTER:cross
+ANSWER:cross
+HELPER:0,shape

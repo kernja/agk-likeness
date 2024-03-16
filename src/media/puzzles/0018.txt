@@ -1,0 +1,12 @@
+IMAGES:stoop.jpg,townhouse.jpg
+LETTER:townhouse
+ANSWER:townhouse
+HELPER:3,terraced
+IMAGES:slum.jpg
+LETTER:denseence
+ANSWER:dense
+HELPER:2,packed
+IMAGES:alamo.jpg
+LETTER:resid
+ANSWER:residence
+HELPER:2,lodging

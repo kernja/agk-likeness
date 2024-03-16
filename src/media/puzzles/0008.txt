@@ -1,0 +1,12 @@
+IMAGES:patio.jpg,trees.jpg
+LETTER:winter
+ANSWER:winter
+HELPER:0,season
+IMAGES:globe.jpg
+LETTER:chilly
+ANSWER:chilly
+HELPER:1,warm
+IMAGES:snowglobe.jpg
+LETTER:snow
+ANSWER:snow
+HELPER:0,water

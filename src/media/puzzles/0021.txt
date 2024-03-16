@@ -1,0 +1,12 @@
+IMAGES:sushi1.jpg,sushi2.jpg
+LETTER:sushioo
+ANSWER:sushi
+HELPER:3,uramaki
+IMAGES:fish.jpg
+LETTER:fishd
+ANSWER:fish
+HELPER:2,cast
+IMAGES:lobster.jpg
+LETTER:seaf
+ANSWER:seafood
+HELPER:3,shellfish

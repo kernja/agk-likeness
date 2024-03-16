@@ -1,0 +1,12 @@
+IMAGES:serve1.jpg,serve2.jpg
+LETTER:greetce
+ANSWER:greet
+HELPER:2,hail
+IMAGES:service.jpg
+LETTER:servi
+ANSWER:service
+HELPER:1,injury
+IMAGES:labor.jpg
+LETTER:labor
+ANSWER:labor
+HELPER:3,birth

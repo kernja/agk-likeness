@@ -1,0 +1,12 @@
+IMAGES:apple.jpg,banana.jpg
+LETTER:fruitkfas
+ANSWER:fruit
+HELPER:0,food
+IMAGES:potato.jpg
+LETTER:peelt
+ANSWER:peel
+HELPER:1,wrap
+IMAGES:doughnut.jpg
+LETTER:brea
+ANSWER:breakfast
+HELPER:0,meal

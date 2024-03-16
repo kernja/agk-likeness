@@ -1,0 +1,12 @@
+IMAGES:gondola1.jpg,gondola2.jpg
+LETTER:gondolart
+ANSWER:gondola
+HELPER:0,lift
+IMAGES:monorail.jpg
+LETTER:transpo
+ANSWER:transport
+HELPER:2,move
+IMAGES:carry.jpg
+LETTER:carry
+ANSWER:carry
+HELPER:1,drop

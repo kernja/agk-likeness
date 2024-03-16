@@ -1,0 +1,12 @@
+IMAGES:balloon1.jpg,balloon2.jpg
+LETTER:balloons
+ANSWER:balloons
+HELPER:3,helium
+IMAGES:aircraft.jpg
+LETTER:aircraft
+ANSWER:aircraft
+HELPER:3,plane
+IMAGES:throw.jpg
+LETTER:launch
+ANSWER:launch
+HELPER:1,hold

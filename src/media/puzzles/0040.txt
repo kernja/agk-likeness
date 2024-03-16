@@ -1,0 +1,12 @@
+IMAGES:pray1.jpg,pray2.jpg
+LETTER:praygion
+ANSWER:pray
+HELPER:2,beseech
+IMAGES:mass.jpg
+LETTER:mass
+ANSWER:mass
+HELPER:2,gather
+IMAGES:wall.jpg
+LETTER:reli
+ANSWER:religion
+HELPER:1,disbelief

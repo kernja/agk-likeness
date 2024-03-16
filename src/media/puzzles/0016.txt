@@ -1,0 +1,12 @@
+IMAGES:fishbowl.jpg,showerhands.jpg
+LETTER:wetds
+ANSWER:wet
+HELPER:1,dry
+IMAGES:hands.jpg
+LETTER:han
+ANSWER:hand
+HELPER:0,appendage
+IMAGES:hammer.jpg
+LETTER:nail
+ANSWER:nails
+HELPER:2,whack

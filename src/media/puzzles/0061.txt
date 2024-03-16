@@ -1,0 +1,12 @@
+IMAGES:sundae1.jpg,sundae2.jpg
+LETTER:sundaeng
+ANSWER:sundae
+HELPER:0,dessert
+IMAGES:honey.jpg
+LETTER:sweets
+ANSWER:sweet
+HELPER:1,bitter
+IMAGES:pizza.jpg
+LETTER:toppi
+ANSWER:toppings
+HELPER:3,sausage

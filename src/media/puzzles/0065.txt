@@ -1,0 +1,12 @@
+IMAGES:cards1.jpg,cards2.jpg
+LETTER:cardse
+ANSWER:cards
+HELPER:3,greeting
+IMAGES:gamble.jpg
+LETTER:gambl
+ANSWER:gamble
+HELPER:1,safeguard
+IMAGES:showgirl.jpg
+LETTER:casino
+ANSWER:casino
+HELPER:0,business

@@ -1,0 +1,12 @@
+IMAGES:flower.jpg,plant.jpg
+LETTER:flower
+ANSWER:flower
+HELPER:3,violet
+IMAGES:garden.jpg
+LETTER:garden
+ANSWER:garden
+HELPER:3,community
+IMAGES:bloom.jpg
+LETTER:bloom
+ANSWER:bloom
+HELPER:1,wilt

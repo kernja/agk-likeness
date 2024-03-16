@@ -1,0 +1,12 @@
+IMAGES:hole1.jpg,hole2.jpg
+LETTER:holeball
+ANSWER:hole
+HELPER:2,pin
+IMAGES:golfball.jpg
+LETTER:golf
+ANSWER:golfball
+HELPER:0,equipment
+IMAGES:miniture.jpg
+LETTER:putt
+ANSWER:putt
+HELPER:2,stroke

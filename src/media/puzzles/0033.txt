@@ -1,0 +1,12 @@
+IMAGES:tiger.jpg,cub.jpg
+LETTER:tigertor
+ANSWER:tiger
+HELPER:3,bengal
+IMAGES:lion.jpg
+LETTER:catda
+ANSWER:cat
+HELPER:2,feline
+IMAGES:bear.jpg
+LETTER:pre
+ANSWER:predator
+HELPER:2,hunter

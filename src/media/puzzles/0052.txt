@@ -1,0 +1,12 @@
+IMAGES:raceway1.jpg,raceway2.jpg
+LETTER:raceway
+ANSWER:raceway
+HELPER:2,course
+IMAGES:bend.jpg
+LETTER:bendk
+ANSWER:bend
+HELPER:1,straight
+IMAGES:track2.jpg
+LETTER:trac
+ANSWER:track
+HELPER:0,sport

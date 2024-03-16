@@ -1,0 +1,12 @@
+IMAGES:curl1.jpg,curl2.jpg
+LETTER:curlinge
+ANSWER:curl
+HELPER:1,line
+IMAGES:lifting.jpg
+LETTER:lift
+ANSWER:lifting
+HELPER:1,lower
+IMAGES:exercise.jpg
+LETTER:exercis
+ANSWER:exercise
+HELPER:2,condition

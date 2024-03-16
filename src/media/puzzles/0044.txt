@@ -1,0 +1,12 @@
+IMAGES:butte1.jpg,butte2.jpg
+LETTER:butter
+ANSWER:butte
+HELPER:0,landform
+IMAGES:peak.jpg
+LETTER:peakt
+ANSWER:peak
+HELPER:2,apex
+IMAGES:desert.jpg
+LETTER:dese
+ANSWER:desert
+HELPER:3,gobi

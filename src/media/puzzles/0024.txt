@@ -1,0 +1,12 @@
+IMAGES:cliff1.jpg,cliff2.jpg
+LETTER:cliffg
+ANSWER:cliff
+HELPER:2,steep
+IMAGES:hill.jpg
+LETTER:hilln
+ANSWER:hill
+HELPER:2,bluff
+IMAGES:skiing.jpg
+LETTER:skii
+ANSWER:skiing
+HELPER:0,sport

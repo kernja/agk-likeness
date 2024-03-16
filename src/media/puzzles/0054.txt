@@ -1,0 +1,12 @@
+IMAGES:lacrosse.jpg,lacrosse2.jpg
+LETTER:lacrosse
+ANSWER:lacrosse
+HELPER:0,game
+IMAGES:contact.jpg
+LETTER:contact
+ANSWER:contact
+HELPER:1,avoid
+IMAGES:field.jpg
+LETTER:field
+ANSWER:field
+HELPER:2,range

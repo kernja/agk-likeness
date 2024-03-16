@@ -1,0 +1,12 @@
+IMAGES:cake1.jpg,cake2.jpg
+LETTER:cakeolate
+ANSWER:cake
+HELPER:3,birthday
+IMAGES:cherry.jpg
+LETTER:choc
+ANSWER:chocolate
+HELPER:2,cacao
+IMAGES:strawberry.jpg
+LETTER:dessert
+ANSWER:dessert
+HELPER:0,course

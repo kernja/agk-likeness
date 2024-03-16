@@ -1,0 +1,12 @@
+IMAGES:gibbon.jpg,climber.jpg
+LETTER:bipedal
+ANSWER:bipedal
+HELPER:0,movement
+IMAGES:staircase.jpg
+LETTER:climb
+ANSWER:climb
+HELPER:1,descend
+IMAGES:chair.jpg
+LETTER:alone
+ANSWER:alone
+HELPER:2,solo

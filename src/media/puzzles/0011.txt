@@ -1,0 +1,12 @@
+IMAGES:coins1.jpg,coins2.jpg
+LETTER:coinsce
+ANSWER:coins
+HELPER:0,currency
+IMAGES:chart.jpg
+LETTER:finan
+ANSWER:finance
+HELPER:3,accounting
+IMAGES:dressing.jpg
+LETTER:change
+ANSWER:change
+HELPER:1,stagnant

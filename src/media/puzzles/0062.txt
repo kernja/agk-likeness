@@ -1,0 +1,12 @@
+IMAGES:pool1.jpg,pool2.jpg
+LETTER:poolion
+ANSWER:pool
+HELPER:2,billiards
+IMAGES:mansion.jpg
+LETTER:mans
+ANSWER:mansion
+HELPER:2,dwelling
+IMAGES:rich.jpg
+LETTER:rich
+ANSWER:rich
+HELPER:1,poor

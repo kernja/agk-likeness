@@ -1,0 +1,12 @@
+IMAGES:film1.jpg,film2.jpg
+LETTER:filmdcast
+ANSWER:film
+HELPER:2,record
+IMAGES:broadcast.jpg
+LETTER:broa
+ANSWER:broadcast
+HELPER:2,transmit
+IMAGES:newspaper.jpg
+LETTER:news
+ANSWER:news
+HELPER:1,history

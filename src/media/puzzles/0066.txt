@@ -1,0 +1,12 @@
+IMAGES:sunflower1.jpg,sunflower2.jpg
+LETTER:sunflower
+ANSWER:sunflower
+HELPER:0,plant
+IMAGES:bright.jpg
+LETTER:bright
+ANSWER:bright
+HELPER:1,dim
+IMAGES:sunnyside.jpg
+LETTER:sunny
+ANSWER:sunny
+HELPER:0,forecast

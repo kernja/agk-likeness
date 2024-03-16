@@ -1,0 +1,12 @@
+IMAGES:sunset1.jpg,sunset2.jpg
+LETTER:sunsetion
+ANSWER:sunset
+HELPER:2,dusk
+IMAGES:resort.jpg
+LETTER:vacati
+ANSWER:vacation
+HELPER:2,holiday
+IMAGES:getaway.jpg
+LETTER:getaway
+ANSWER:getaway
+HELPER:2,lam

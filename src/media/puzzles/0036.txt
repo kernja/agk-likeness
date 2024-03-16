@@ -1,0 +1,12 @@
+IMAGES:teddy.jpg,stuffed.jpg
+LETTER:pastaed
+ANSWER:pasta
+HELPER:3,spaghetti
+IMAGES:chili.jpg
+LETTER:stuff
+ANSWER:stuffed
+HELPER:2,filled
+IMAGES:tomato.jpg
+LETTER:tomato
+ANSWER:tomato
+HELPER:0,nightshade

@@ -1,0 +1,12 @@
+IMAGES:pancakes1.jpg,pancakes2.jpg
+LETTER:pancakes
+ANSWER:pancakes
+HELPER:2,flapjack
+IMAGES:dessert.jpg
+LETTER:syrup
+ANSWER:syrup
+HELPER:3,maple
+IMAGES:stack.jpg
+LETTER:stack
+ANSWER:stack
+HELPER:2,heap

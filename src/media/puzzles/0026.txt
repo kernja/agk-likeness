@@ -1,0 +1,12 @@
+IMAGES:scale1.jpg,scale2.jpg
+LETTER:scaleance
+ANSWER:scale
+HELPER:1,descend
+IMAGES:endurance.jpg
+LETTER:endurance
+ANSWER:endurance
+HELPER:2,duration
+IMAGES:mountain.jpg
+LETTER:mountain
+ANSWER:mountain
+HELPER:0,geology

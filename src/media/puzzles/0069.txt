@@ -1,0 +1,12 @@
+IMAGES:crayons.jpg,pencils.jpg
+LETTER:colorful
+ANSWER:colorful
+HELPER:1,monotone
+IMAGES:write.jpg
+LETTER:writeder
+ANSWER:write
+HELPER:2,scribe
+IMAGES:cylinder.jpg
+LETTER:cylin
+ANSWER:cylinder
+HELPER:2,column

@@ -1,0 +1,12 @@
+IMAGES:keyboard.jpg,mouse.jpg
+LETTER:inputsory
+ANSWER:input
+HELPER:1,output
+IMAGES:printer.jpg
+LETTER:acces
+ANSWER:accessory
+HELPER:1,principal
+IMAGES:laptop.jpg
+LETTER:computer
+ANSWER:computer
+HELPER:0,machine

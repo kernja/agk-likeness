@@ -1,0 +1,12 @@
+IMAGES:game1.jpg,game2.jpg
+LETTER:gameerair
+ANSWER:game
+HELPER:0,activity
+IMAGES:skill.jpg
+LETTER:winn
+ANSWER:winner
+HELPER:1,loser
+IMAGES:funfair.jpg
+LETTER:funf
+ANSWER:funfair
+HELPER:2,carnival

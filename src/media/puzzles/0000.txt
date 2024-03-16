@@ -1,0 +1,12 @@
+IMAGES:surf.jpg,shirtless.jpg
+LETTER:shirtlessath
+ANSWER:shirtless
+HELPER:0,Nudity
+IMAGES:stretch.jpg
+LETTER:letich
+ANSWER:athletic
+HELPER:1,Feeble
+IMAGES:reading.jpg
+LETTER:uman
+ANSWER:human
+HELPER:2,Mortal

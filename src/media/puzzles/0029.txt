@@ -1,0 +1,12 @@
+IMAGES:grape1.jpg,grape2.jpg
+LETTER:grape
+ANSWER:grape
+HELPER:3,concord
+IMAGES:strawberry1.jpg
+LETTER:berry
+ANSWER:berry
+HELPER:0,fruit
+IMAGES:wine.jpg
+LETTER:wine
+ANSWER:wine
+HELPER:0,beverage

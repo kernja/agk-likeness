@@ -1,0 +1,12 @@
+IMAGES:clown1.jpg,clown2.jpg
+LETTER:clownated
+ANSWER:clown
+HELPER:0,performer
+IMAGES:freak.jpg
+LETTER:decor
+ANSWER:decorated
+HELPER:2,adorned
+IMAGES:booby.jpg
+LETTER:booby
+ANSWER:booby
+HELPER:0,bird

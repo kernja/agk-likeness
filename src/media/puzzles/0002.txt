@@ -1,0 +1,12 @@
+IMAGES:taxiplane.jpg,taxi.jpg
+LETTER:taxivcle
+ANSWER:taxi
+HELPER:2,cab
+IMAGES:boat.jpg
+LETTER:ehin
+ANSWER:vehicle
+HELPER:2,tram
+IMAGES:movers.jpg
+LETTER:movig
+ANSWER:moving
+HELPER:1,Stay

@@ -1,0 +1,12 @@
+IMAGES:catch1.jpg,catch2.jpg
+LETTER:catchtyle
+ANSWER:catch
+HELPER:1,release
+IMAGES:freestyle.jpg
+LETTER:frees
+ANSWER:freestyle
+HELPER:2,unspecific
+IMAGES:disc.jpg
+LETTER:ultimate
+ANSWER:ultimate
+HELPER:0,sport

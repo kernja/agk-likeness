@@ -1,0 +1,12 @@
+IMAGES:dolphin1.jpg,dolphin2.jpg
+LETTER:dolphin
+ANSWER:dolphin
+HELPER:3,dusky
+IMAGES:orca.jpg
+LETTER:cetacea
+ANSWER:cetacea
+HELPER:2,whale
+IMAGES:marine.jpg
+LETTER:marine
+ANSWER:marine
+HELPER:2,natatory

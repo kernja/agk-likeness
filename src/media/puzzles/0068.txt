@@ -1,0 +1,12 @@
+IMAGES:skate1.jpg,skate2.jpg
+LETTER:airance
+ANSWER:air
+HELPER:2,sky
+IMAGES:balance.jpg
+LETTER:bal
+ANSWER:balance
+HELPER:1,unstable
+IMAGES:perform.jpg
+LETTER:perform
+ANSWER:perform
+HELPER:2,behave

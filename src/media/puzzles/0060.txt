@@ -1,0 +1,12 @@
+IMAGES:egg1.jpg,egg2.jpg
+LETTER:eggtein
+ANSWER:egg
+HELPER:2,ovum
+IMAGES:beef.jpg
+LETTER:pro
+ANSWER:protein
+HELPER:0,nutrient
+IMAGES:spaghetti.jpg
+LETTER:raw
+ANSWER:raw
+HELPER:1,fresh

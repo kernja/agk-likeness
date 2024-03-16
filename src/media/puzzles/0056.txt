@@ -1,0 +1,12 @@
+IMAGES:indian1.jpg,indian2.jpg
+LETTER:indian
+ANSWER:indian
+HELPER:0,ethnicity
+IMAGES:market.jpg
+LETTER:bazaar
+ANSWER:bazaar
+HELPER:2,market
+IMAGES:shop.jpg
+LETTER:shop
+ANSWER:shop
+HELPER:3,thrift
